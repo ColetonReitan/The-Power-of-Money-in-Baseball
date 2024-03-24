@@ -3,3 +3,5 @@ In order to understand the importance of payroll distribution amongst MLB teams 
 A Data Visualization in Business Analytics Individual Final Project, conducted in December 2023. 
 
 Completed using R and Tableu. 
+
+I am continuing to work on this project to include all team data from the 2015 through 2023 seasons, with updates to the data coming soon. Webscraping methods through R software is currently being conducted. 
